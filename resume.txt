@@ -1,0 +1,48 @@
+Nicholas Corona
+252 Victoria Street
+Toronto, Ontario, M5B 0A3
+647-822-5386
+nicklucianocorona@gmail.com
+LinkedIn: https://www.linkedin.com/in/nicholas-corona-4b19867b/
+
+Objective:
+Experienced and dedicated Senior Data Scientist seeking an opportunity to drive data-driven insights and enhance business decision-making at Aviva Canada. Expertise in data mining, machine learning algorithms, and data visualization techniques to help solve complex business problems and create value.
+
+Professional Summary:
+
+Over 5 years of experience as a data scientist and analyst, with a proven track record of delivering actionable insights that drive business growth.
+Strong analytical skills with the ability to collect, organize, analyze, and interpret large datasets for decision-making purposes.
+Proficient in developing and deploying machine learning models to predict, classify, and optimize outcomes.
+Excellent communication and collaboration skills, able to effectively present findings to technical and non-technical stakeholders.
+
+Technical Skills:
+
+Programming languages: Python, R, SQL, Java, Scala
+Machine learning frameworks: TensorFlow, Keras, PyTorch, Scikit-learn
+Big Data technologies: Hadoop, Spark, Hive, Pig
+Data visualization tools: Tableau, Power BI, D3.js, ggplot2
+Databases: MySQL, PostgreSQL, MongoDB, NoSQL
+Cloud computing platforms: AWS, Google Cloud, Azure
+
+Professional Experience:
+
+Senior Data Scientist | Aviva Canada | Toronto, ON | 2021 - Present
+
+Build and deploy machine learning models for pricing car and home insurance for Aviva's direct-to-consumer business.
+Communicate model results to stakeholders to increase understanding and ensure successful implementation.
+Collaborate with cross-functional teams to define data requirements and identify opportunities for data-driven decision making.
+Develop and deploy predictive models to optimize marketing campaigns, resulting in a 15% increase in conversion rates.
+Lead the implementation of a real-time recommendation engine, improving user engagement by 20% and driving a 12% increase in sales.
+Utilize NLP techniques to analyze customer feedback and sentiment, helping improve customer satisfaction scores by 18%.
+Mentor junior data scientists and provide guidance on best practices, resulting in an increase in team productivity by 10%.
+
+Prior Experience:
+
+Actuarial Analyst | Aviva Canada | Toronto, ON | 2018 - 2020
+Senior Statistical Analyst | Aviva Canada | Toronto, ON | 2020 - 2021
+Data Scientist | Aviva Canada | Toronto, ON | 2021 - 2021
+
+Education:
+Master of Science in Computer Science, Specialization in Interactive Intelligence | Georgia Institute of Technology | Atlanta, Georgia | In Progress, GPA: 4.0/4.0
+
+Bachelor of Commerce, Finance & Economic Specialization | Rotman School of Management, University of Toronto | Toronto, Ontario | GPA: 3.73/4
